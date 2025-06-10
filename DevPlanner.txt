@@ -1,0 +1,23 @@
+Train
+Dataloader 
+-> Loads individual image into features
+Neural Network 
+(Layers)
+Sigismoid
+Softmax
+Convolutional
+Downsampling / Pooling
+
+(Network)
+-> randomizes weights
+-> takes features and converts it to a loss value
+-> takes loss value and back tracks in order to calculate gradients
+-> apply gradients
+
+Test
+Create several AI's and test them through test datasets and check how well they perform
+1. Test regular AI (no convolution)
+2. Test convolutional AI
+
+
+Testcases
