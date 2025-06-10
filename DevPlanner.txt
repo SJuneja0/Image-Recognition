@@ -21,3 +21,7 @@ Create several AI's and test them through test datasets and check how well they 
 
 
 Testcases
+
+TODO:
+-> Create diagram of neural Network
+-> Start creating layers
